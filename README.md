@@ -31,7 +31,7 @@ Mejora tu Android en minutos usando ADB.
 
 ## 📦 Download
 
-👉 [Download latest version](https://github.com/darknetfert-lang/android-adb-tools/releases/download/v1.0.1/android-adb-tools-v1.0.1.zip)
+[⬇️ Download Latest Version](https://github.com/darknetfert-lang/android-adb-tools/releases/download/v1.0.1/android-adb-tools-v1.0.1.zip)
 
 ## 🛠 Features
 
