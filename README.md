@@ -14,6 +14,13 @@ Boost your Android performance using ADB scripts easily.
 - ADB instalado
 - Depuración USB activada
 
+## ⚙️ Instalación
+
+1. Descarga el archivo .zip
+2. Extrae el contenido
+3. Asegúrate de tener ADB instalado
+4. Activa "Depuración USB" en tu Android
+
 ## ⚡ Uso rápido
 1. Conecta tu teléfono
 2. Ejecuta el script
