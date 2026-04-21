@@ -26,6 +26,13 @@ Boost your Android performance using ADB scripts easily.
 2. Ejecuta el script
 3. Disfruta
 
+## 🔧 Ejemplos
+
+```bash
+adb devices
+adb shell pm uninstall --user 0 com.facebook.katana
+````
+
 # Windows Tool
 
 ## How to use
