@@ -18,6 +18,7 @@ Boost your Android performance using simple ADB scripts.
 ## 📦 Download
 
 👉 [Download Latest Version](../../releases/latest)
+
 ---
 
 ## 🧰 Requisitos
@@ -50,3 +51,11 @@ Boost your Android performance using simple ADB scripts.
 ```bash
 adb devices
 adb shell pm uninstall --user 0 com.facebook.katana
+```
+
+---
+
+## ⚠️ Disclaimer
+
+Use at your own risk.  
+Some commands may remove system apps and affect device stability.
