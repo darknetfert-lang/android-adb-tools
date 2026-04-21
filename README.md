@@ -15,3 +15,16 @@ Mejora tu Android en minutos usando ADB.
 1. Conecta tu teléfono
 2. Ejecuta el script
 3. Disfruta
+
+# Windows Tool
+
+## How to use
+1. Install ADB
+2. Connect your phone
+3. Enable USB Debugging
+4. Run `tool.bat`
+
+## Features
+- Debloat apps
+- Boost performance
+- Privacy tweaks
