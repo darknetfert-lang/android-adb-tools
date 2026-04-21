@@ -2,6 +2,10 @@
 
 Boost your Android performance using simple ADB scripts.
 
+## 🎬 Demo
+
+![Demo](assets/demo.png)
+
 ![release](https://img.shields.io/badge/release-v1.0.1-blue)
 ![license](https://img.shields.io/badge/license-MIT-green)
 
