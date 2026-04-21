@@ -17,7 +17,24 @@ Boost your Android performance using simple ADB scripts.
 
 - 🧹 Remove bloatware safely  
 - ⚡ Improve performance  
-- 🔒 Enhance privacy  
+- 🔒 Enhance privacy
+
+  ---
+
+## 🔍 What this tool actually does
+
+This tool executes ADB commands to:
+
+- Uninstall pre-installed apps (bloatware)
+- Disable background services
+- Optimize system performance
+- Improve user privacy by removing trackers
+
+### Example commands used:
+```bash
+adb shell pm uninstall --user 0 com.facebook.katana
+adb shell pm disable-user --user 0 com.google.android.youtube
+```
 
 ---
 
