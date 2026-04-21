@@ -17,8 +17,7 @@ Boost your Android performance using simple ADB scripts.
 
 ## 📦 Download
 
-👉 [Download Latest Version](../../releases)
-
+👉 [Download Latest Version](../../releases/latest)
 ---
 
 ## 🧰 Requisitos
