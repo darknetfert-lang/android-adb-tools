@@ -1,6 +1,8 @@
-# 📱 Android Tools (No Root)
+# 🚀 Android ADB Tools (No Root)
 
-Mejora tu Android en minutos usando ADB.
+Boost your Android performance using ADB scripts easily.
+![Version](https://img.shields.io/github/v/release/darknetfert-lang/android-adb-tools)
+![License](https://img.shields.io/github/license/darknetfert-lang/android-adb-tools)
 
 ✅ Sin root  
 ✅ Seguro  
