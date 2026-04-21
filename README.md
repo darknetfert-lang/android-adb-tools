@@ -5,7 +5,7 @@ Boost your Android performance using simple ADB scripts.
 ## 🎬 Demo (How it works)
 
 <p align="center">
-  <img src="assets/demo.png" width="700"/>
+  <img src="https://raw.githubusercontent.com/darknetfert-lang/android-adb-tools/main/assets/demo.png" width="700"/>
 </p>
 
 ![release](https://img.shields.io/badge/release-v1.0.1-blue)
