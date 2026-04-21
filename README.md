@@ -24,20 +24,20 @@ Mejora tu Android en minutos usando ADB.
 3. Enable USB Debugging
 4. Run `tool.bat`
 
-## Features
+# Android ADB Tools
+
+## 🚀 Features
 - Debloat apps
 - Boost performance
 - Privacy tweaks
 
 ## 📦 Download
+[⬇️ Download Latest Version](https://github.com/darknetfert-lang/android-adb-tools/releases/latest)
 
-[⬇️ Download Latest Version](https://github.com/darknetfert-lang/android-adb-tools/releases/download/v1.0.1/android-adb-tools-v1.0.1.zip)
-
-## 🛠 Features
-
-- 🧹 Remove bloatware safely
-- ⚡ Improve performance
-- 🔒 Enhance privacy
+## ⚡ Quick Start
+1. Connect phone
+2. Run script
+3. Done
 
 ## ⚠️ Disclaimer
-Use at your own risk. Some commands may affect system apps.
+Use at your own risk
