@@ -1,6 +1,6 @@
 # 🚀 Android ADB Tools (No Root)
 
-Boost your Android performance using ADB scripts easily.
+Boost your Android performance using simple ADB scripts.
 
 ![release](https://img.shields.io/badge/release-v1.0.1-blue)
 ![license](https://img.shields.io/badge/license-MIT-green)
@@ -16,24 +16,25 @@ Boost your Android performance using ADB scripts easily.
 ---
 
 ## 📦 Download
-[⬇️ Download Latest Version](https://github.com/darknetfert-lang/android-adb-tools/releases/latest)
+
+👉 [Download Latest Version](../../releases)
 
 ---
 
-## 🔧 Requisitos
+## 🧰 Requisitos
 
-- PC  
-- ADB instalado  
-- Depuración USB activada  
+- PC
+- ADB instalado
+- Depuración USB activada
 
 ---
 
 ## ⚙️ Instalación
 
-1. Descarga el archivo .zip  
-2. Extrae el contenido  
-3. Asegúrate de tener ADB instalado  
-4. Activa "Depuración USB" en tu Android  
+1. Descarga el archivo `.zip`
+2. Extrae el contenido
+3. Asegúrate de tener ADB instalado
+4. Activa "Depuración USB" en tu Android
 
 ---
 
