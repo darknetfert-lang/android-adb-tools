@@ -28,3 +28,16 @@ Mejora tu Android en minutos usando ADB.
 - Debloat apps
 - Boost performance
 - Privacy tweaks
+
+## 📦 Download
+
+👉 [Download latest version](https://github.com/darknetfert-lang/android-adb-tools/releases)
+
+## 🛠 Features
+
+- 🧹 Remove bloatware safely
+- ⚡ Improve performance
+- 🔒 Enhance privacy
+
+## ⚠️ Disclaimer
+Use at your own risk. Some commands may affect system apps.
